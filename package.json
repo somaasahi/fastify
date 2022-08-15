@@ -1,0 +1,9 @@
+{
+  "type" : "module",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "fastify": "^4.1.0",
+    "fastify-autoload": "^3.13.0",
+    "fastify-plugin": "^3.0.1"
+  }
+}
